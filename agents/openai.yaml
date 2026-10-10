@@ -1,0 +1,6 @@
+interface:
+  display_name: "0 - 5 Agents storm"
+  short_description: "Five contrasting lenses, one decisive flowing synthesis"
+  default_prompt: "Use $5-agents-storm to analyze my task and deliver one evidence-grounded synthesis in flowing prose."
+policy:
+  allow_implicit_invocation: true
